@@ -1,0 +1,7 @@
+# Dependencies
+
+scapy should be installed on your pc
+
+# how to run
+
+sudo python3 gen.py <source ip> <destination ip> <protocol> <packet length> <packet count> <interface> <mac id>
